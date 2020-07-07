@@ -33,4 +33,3 @@ Pressing enter doesn't actually start a new line if you don't start that line wi
 - [X] understand that putting a parenthesis first in one of these requires you to put a */* between the parenthesis and bracket because if you dont you've turned the task into a link
 - [x] wonder why my links have an image not availableicon next to them
 - [ ] understand how to use *SHA-1*
-- [ ] add another quarter page of notes
