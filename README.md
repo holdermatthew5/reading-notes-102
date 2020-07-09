@@ -19,6 +19,13 @@
 Pressing enter doesn't actually start a new line if you don't start that line with code. It just adds a space between the start of that line and the end of the previous one.
 - This ~ is apparently called a tilde, but don't ask me how to pronounce it lol.
 
+# tools and terminal
+
+- A text editor is the actual platform that creates the website. Github is a text editor. The thing we wrote html and css in for intro to coding 101 was a text editor. One aspect of a text editor is the different colors assigned to each feature and the lack of color in other parts like actual text that appears on the page. This "color-scheme" can be useful in identifying errors as well as making the code more eye friendly or easier to read as opposed to the way this paragraph is all one style of text or the way html writes all words in a website in the same style on different lines.
+
+- There is no "best" text editor it's all about what feels and works best for the individual coder. So far I liked the 101 editor better because of the color scheme and the natural indentation of each line which made the code a little easier for me to make out. Although, this editor is significantly more user friendly in terms of mistakes and the lack of necessity to actually use code to write a paragraph for the site.
+
+
 | Reading | instructions |
 | ------ | ------ |
 | is | important |
