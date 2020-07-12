@@ -8,3 +8,4 @@
 - [tools and terminal](tools-terminal.md)
 - [git vs github](git-github.md)
 - [CSS Notes](CSS-Notes.md)
+- [JavaScript notes](JavaScript-notes.md)
