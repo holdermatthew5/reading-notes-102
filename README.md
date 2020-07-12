@@ -7,5 +7,7 @@
 - [markdown notes](markdown-notes.md)
 - [tools and terminal](tools-terminal.md)
 - [git vs github](git-github.md)
+- [html notes](html-notes.md)
 - [CSS Notes](CSS-Notes.md)
 - [JavaScript notes](JavaScript-notes.md)
+- [computers](computers.md)
