@@ -11,3 +11,4 @@
 - [CSS Notes](CSS-Notes.md)
 - [JavaScript notes](JavaScript-notes.md)
 - [computers](computers.md)
+- [programming with js](prog-js.md)
