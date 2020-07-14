@@ -12,3 +12,4 @@
 - [JavaScript notes](JavaScript-notes.md)
 - [computers](computers.md)
 - [js functions](js-function.md)
+- [logical operators](logical-operators.md)
