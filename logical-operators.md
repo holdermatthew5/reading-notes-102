@@ -1,16 +1,16 @@
 - if I do `((3 > 2) && (3 < 2) || (1 < 2))` will it evaluate true since one of the 2 attatched to `||` are true and the far left is true? If not will it evaluate false since 3 !< 2? Can I make it check the left 2 first by putting them in parenthesis and then check the result to the right side since PEMDAS exists? what can this form of equation be used for in larger examples? can this be used to form AI? or faster if then statements?
-- ==
-- ===
-- !=
-- !==
-- <
-- >
-- <=
-- >=
-- &&
-- ||
-- !
-- += means to add meaning to the end of the assigned meaning. aka:
+- `==` - is equal to
+- `===` - is trictly equal to (numbers v strings)
+- `!=` = is not equal to
+- `!==` - is not strictly equal to
+- `<` - left less than right
+- `>` - left greater than right
+- `<=` - left less than or equal to right
+- `>=` - left greater than or equal to right
+- `&&` - logical 'and'
+- `||` - logical 'or'
+- `!` - logical 'not'
+- `+=` means to add meaning to the end of the assigned meaning. aka:
 ```
 msg = msg + 'new content';
 ```
