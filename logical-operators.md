@@ -26,3 +26,10 @@ for (var i = 0; i < 10; i++) {
 - assuming the issue isn't too complex putting a for loop inside a while loop could form a sort of self healing code which changes it's own variables to suit the needs of the machine it's run on.
 - do while is the same as a while loop except that do while will run the code block it contains at least once even if it's parameters evaluate false. this could be useful in checking applications when they are downloaded to make sure they do not contain malware. the malware would not provide an immediate adverse effect so the statement (malware is present) would evaluate false, but it's best to check anyway so the do while loop would check the app and potentially stop the app from installing the malware or stop the malware from affecting the device it's downloaded to.
 - the parameters to these loops do not have to be contained within the loops code block.
+- loop - 
+- while true - loop over code
+- for - for a certain number of times
+- iterate - each time it loops
+- condition - think of conditional statements (while (true && true) || false)
+- increment - increase possibly by one
+- decrement - increase possibly by one
