@@ -1,0 +1,1 @@
+notes for 1st day reading.

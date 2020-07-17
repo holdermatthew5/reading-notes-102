@@ -13,3 +13,4 @@
 - [computers](computers.md)
 - [js functions](js-function.md)
 - [logical operators](logical-operators.md)
+- [Intro HTML & Javascript](HTML-&-JS.md)
