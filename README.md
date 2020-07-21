@@ -14,3 +14,5 @@
 - [js functions](js-function.md)
 - [logical operators](logical-operators.md)
 - [Intro HTML & Javascript](HTML-&-JS.md)
+- [Class 01](class-01.md)
+- [Class 02](class-02.md)
