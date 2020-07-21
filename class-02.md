@@ -34,3 +34,5 @@
 - since specificity affects selectors and timing more likely affects rules specificity overrides timing. Then rules in the more specific still obey !important above all and latest comes in second
 - rules in parent elements are inherited by child elements. \[unless latter, mare specific or important overrides any child element?]
 - if a less specific selector has a rule that the more specific does not, will the rule still apply?
+- does inherit only work if you type inherit as the value of a rule? or does it only work with font rules and has to be manually applied to other rule types?
+- JS is case sensitive so var's can be spelled the same with dif caps and mean something totally different.
