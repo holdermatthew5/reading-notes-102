@@ -18,4 +18,19 @@
 - `<address></address>` = can be used to identify contact info (address, email, phone, etc).
 - `<del>` = to show deleted text (one lines inaccuracy), `<ins>` to show inserted text.
 - `<s>` = no longer accurate but still needed like old pricing during a sale (one lines innacuracy).
-- 
+- selector {declaration} property: value;
+- `<link>` = provides link to css document in html document.
+- href = provides path to document
+- style = provides style of document linked (text/css) for css style sheet.
+- rel = provides relationship between html doc and linked doc (stylesheet for css doc).
+- `<style>` = provides css styling in html doc
+- , = targets all elements of selectors listed
+- > = targets any specified element directly inside a specified html element
+- space = targets any specified element anywhere inside the specified selector. does not have to be direct descendant.
+- `+` = targets first adjacent element (first of specified element on the same verticle line).
+- latest rule takes precendence over other identical rules affecting the same html element
+- !important = overrides latter rules affecting the same element.
+- more specific selectors override less specific ones (uses id, class, sibling etc.)
+- since specificity affects selectors and timing more likely affects rules specificity overrides timing. Then rules in the more specific still obey !important above all and latest comes in second
+- rules in parent elements are inherited by child elements. \[unless latter, mare specific or important overrides any child element?]
+- if a less specific selector has a rule that the more specific does not, will the rule still apply?
